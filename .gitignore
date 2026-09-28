@@ -1,0 +1,8 @@
+# Рабочие файлы перевода, в репозиторий не идут
+building-ui-framework-ru.txt
+chunks/
+
+# macOS
+.DS_Store
+ru/GLOSSARY.md
+ru/DECISIONS.md
